@@ -59,7 +59,7 @@ export default function Home() {
             >
               Software Engineer & AI/ML Researcher.<br />
               <span className="text-white/80 font-medium">
-                Expert at building scalable AI platforms and solving high-level algorithmic challenges.
+                Skilled in building scalable software platforms and solving high-level algorithmic challenges.
               </span>
             </motion.p>
           </div>
