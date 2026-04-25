@@ -30,6 +30,15 @@ const stats = [
     logo: "/assets/codechef-logo.png",
     url: "https://www.codechef.com/users/aditya_1695/",
   },
+  {
+    platform: "Atcoder",
+    rank: "4 Kyu",
+    rating: "1204",
+    color: "from-cyan-400 to-cyan-500",
+    glow: "group-hover:shadow-cyan-500/20",
+    logo: "/assets/atcoder-logo.png",
+    url: "https://atcoder.jp/users/aditya1695/",
+  }
 ];
 
 function CPDashboard() {
@@ -47,7 +56,7 @@ function CPDashboard() {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
         {stats.map((s) => (
           <a
             key={s.platform}
