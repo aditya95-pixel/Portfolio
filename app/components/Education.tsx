@@ -51,7 +51,7 @@ export default function Education() {
             <div className="flex flex-wrap gap-4 pt-4 border-t border-white/5">
               <div className="flex items-center gap-2 px-4 py-2 rounded-full bg-red-500/10 border border-red-500/20">
                 <Award size={18} className="text-red-500" />
-                <span className="text-zinc-200 font-medium">CGPA: 9.768</span>
+                <span className="text-zinc-200 font-medium">DGPA: 9.79</span>
               </div>
             </div>
           </div>
