@@ -30,7 +30,7 @@ export default function Education() {
             <div className="flex flex-col md:flex-row md:items-center justify-between gap-4">
               <div>
                 <h3 className="text-2xl font-bold text-zinc-100">
-                  Bachelor of Technology in Computer Science & Engineering
+                  B.Tech in Computer Science & Engineering (AI/ML)
                 </h3>
                 <p className="text-lg text-red-500 font-semibold mt-1">
                   Heritage Institute of Technology
@@ -52,6 +52,7 @@ export default function Education() {
               <div className="flex items-center gap-2 px-4 py-2 rounded-full bg-red-500/10 border border-red-500/20">
                 <Award size={18} className="text-red-500" />
                 <span className="text-zinc-200 font-medium">DGPA: 9.79</span>
+                <span className="text-zinc-200 font-medium">Dept Rank: 1</span>
               </div>
             </div>
           </div>
